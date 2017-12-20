@@ -1,0 +1,16 @@
+body {
+  background-image: url(../img/skelatal_weave.png);
+}
+
+.logo {
+  font-family: 'Saira Semi Condensed', sans-serif;
+}
+
+.logo a {
+  color: rgba(0,0,0,.9);
+}
+
+.logo a:hover,
+.logo a:active {
+  text-decoration: none;
+}
